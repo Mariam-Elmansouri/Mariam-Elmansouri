@@ -16,3 +16,7 @@ I’m strengthening my knowledge of server-side development, concurrent programm
 ## Opportunities
 I’m seeking volunteering opportunities to gain practical experience, collaborate with developers, and understand how software teams work in the industry.
 I’m also interested in graduate software engineering opportunities where I can contribute, continue learning, and grow as a developer.
+
+## Contact Information 
+Email: mariam2005Ma@hotmail.com
+LinkedIn:www.linkedin.com/in/mariam-el-mansouri-abaich-3a0588341
